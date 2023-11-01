@@ -1,0 +1,81 @@
+.slide{
+    background-image: url(./images/newwwwwwwwwwwwwwwwwwwwwwwww.jpg);
+    background-size: cover;
+    height: 720px;
+}
+form{
+    margin-top: 80px;
+}
+.container{
+    height: 300px;
+}
+.center{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 480px;
+height: 380px;
+}
+.he{
+    margin-top: 60px;
+}
+.hi{
+    margin-top: 60px;
+}
+.h{
+    margin-top: 60px;
+    margin-left: 180px;
+}
+.y{
+    margin-top: 60px;
+}
+#first{
+    margin-top: 110px;
+}
+#second{
+    margin-top: 30px;
+}
+#third{
+    margin-top: 30px;
+}
+#fourth{
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 170px;
+}
+#first a:hover{
+    background-color: green;
+}#second a:hover{
+    background-color: green;
+}
+#third a:hover{
+    background-color: green;
+}
+#fourth a:hover{
+    background-color: green;
+}
+.sample{
+    margin-top: 100px;
+}
+#forform{
+    background-color: rgb(199, 169, 169);
+}
+.text{
+    margin-top: 30px;
+    margin-left: 370px;
+    
+}
+#sign{
+    margin-top: 100px;
+    margin-right: 250px;
+}
+.null{
+     background-image: url(./images/login.jpg);
+    background-size: cover;
+    height: 700px;
+    
+}
+.new{
+    padding-top: 200px;
+    padding-left: 100px;
+}
